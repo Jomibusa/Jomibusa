@@ -207,3 +207,18 @@
 <p align="center">
   <i>Open to new opportunities and collaborations</i>
 </p>
+
+<h3 align="center">💬 Random Dev Quote</h3>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>🐍 Snake Eating Contributions</h3>
+      <img src="https://raw.githubusercontent.com/Jomibusa/Jomibusa/output/github-snake-dark.svg" alt="Snake animation"/>
+    </td>
+  </tr>
+</table>
