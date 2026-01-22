@@ -165,9 +165,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📬 Contact
+<h3 align="center">📬 Contact</h3>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="80">
       <a href="https://linkedin.com/in/jomibusa">
@@ -203,10 +203,6 @@
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <i>Open to new opportunities and collaborations</i>
-</p>
 
 <h3 align="center">💬 Random Dev Quote</h3>
 
