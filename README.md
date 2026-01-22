@@ -9,7 +9,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 <table>
   <tr>
@@ -28,7 +28,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🚀 Published Apps
+## 🚀 Published Apps
 
 <table>
   <tr>
@@ -59,7 +59,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 💻 Languages
+## 💻 Languages
 
 <table>
   <tr>
@@ -82,14 +82,14 @@
   </tr>
 </table>
 
-### 📱 Platforms & Frameworks
+## 📱 Platforms & Frameworks
 
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🏗️  Architectures
+## 🏗️  Architectures
 
 ![MVVM](https://img.shields.io/badge/MVVM-5C2D91?style=for-the-badge)
 ![MVP](https://img.shields.io/badge/MVP-0288D1?style=for-the-badge)
@@ -97,14 +97,14 @@
 ![DDD](https://img.shields.io/badge/DDD-8E44AD?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-2C3E50?style=for-the-badge)
 
-### 🎨 UI Frameworks
+## 🎨 UI Frameworks
 
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 
-### 📚 Libraries & Tools
+## 📚 Libraries & Tools
 
 ![Retrofit](https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-34A853?style=for-the-badge&logo=android&logoColor=white)
@@ -113,7 +113,7 @@
 ![Volley](https://img.shields.io/badge/Volley-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![AndroidX](https://img.shields.io/badge/AndroidX-34A853?style=for-the-badge&logo=android&logoColor=white)
 
-### ⚙️  IDEs & Environment
+## ⚙️  IDEs & Environment
 
 <table>
   <tr>
@@ -132,7 +132,7 @@
   </tr>
 </table>
 
-### 🔄 DevOps & Version Control
+## 🔄 DevOps & Version Control
 
 <table>
   <tr>
