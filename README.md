@@ -126,7 +126,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Work Email"/>
 </a>&nbsp;&nbsp;
 <a href="https://x.com/Jomibusa">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" width="40" alt="X"/>
+  <img src="https://img.icons8.com/color/48/twitterx--v1.png" width="40" alt="X"/>
 </a>&nbsp;&nbsp;
 <a href="https://youtube.com/@Jomibusa">
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" alt="YouTube"/>
