@@ -61,10 +61,26 @@
 
 ### 💻 Languages
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" alt="Kotlin"/>
+      <br><b>Kotlin</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
+      <br><b>Java</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50" alt="Swift"/>
+      <br><b>Swift</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/dart.png" width="50" alt="Dart"/>
+      <br><b>Dart</b>
+    </td>
+  </tr>
+</table>
 
 ### 📱 Platforms & Frameworks
 
@@ -99,38 +115,92 @@
 
 ### ⚙️  IDEs & Environment
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" alt="Android Studio"/>
+      <br><b>Android Studio</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="50" alt="Xcode"/>
+      <br><b>Xcode</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/>
+      <br><b>VS Code</b>
+    </td>
+  </tr>
+</table>
 
 ### 🔄 DevOps & Version Control
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="50" alt="Bitbucket"/>
+      <br><b>Bitbucket</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/firebase.png" width="50" alt="Firebase"/>
+      <br><b>Firebase</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" alt="Jenkins"/>
+      <br><b>Jenkins</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.gstatic.com/android/market_images/web/favicon_v3.ico" width="50" alt="Google Play"/>
+      <br><b>Google Play</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" width="50" alt="App Store"/>
+      <br><b>App Store</b>
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📬 Contact
 
-<a href="https://linkedin.com/in/jomibusa">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/>
-</a>&nbsp;&nbsp;
-<a href="mailto:jomibusa1903@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Personal Email"/>
-</a>&nbsp;&nbsp;
-<a href="mailto:jomibusadeveloper@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Work Email"/>
-</a>&nbsp;&nbsp;
-<a href="https://x.com/Jomibusa">
-  <img src="https://img.icons8.com/color/48/twitterx--v1.png" width="40" alt="X"/>
-</a>&nbsp;&nbsp;
-<a href="https://youtube.com/@Jomibusa">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" alt="YouTube"/>
-</a>
+<table>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://linkedin.com/in/jomibusa">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
+        <br><b>LinkedIn</b>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="mailto:jomibusa1903@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" alt="Personal"/>
+        <br><b>Personal</b>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="mailto:jomibusadeveloper@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" alt="Work"/>
+        <br><b>Work</b>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://x.com/Jomibusa">
+        <img src="https://img.icons8.com/color/48/twitterx--v1.png" width="40" height="40" alt="X"/>
+        <br><b>X</b>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://youtube.com/@Jomibusa">
+        <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" height="40" alt="YouTube"/>
+        <br><b>YouTube</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
