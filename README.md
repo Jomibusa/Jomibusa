@@ -28,6 +28,37 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### Published Apps
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://play.google.com/store/apps/details?id=com.jomibusa.instachatwp&hl=en_US">
+        <b>InstaChat WP</b>
+      </a>
+      <br><br>
+      Chat on WhatsApp without saving numbers. Scan or generate QR codes, keep chat history, and assign aliases.
+      <br><br>
+      <a href="https://play.google.com/store/apps/details?id=com.jomibusa.instachatwp&hl=en_US">
+        <img height="50" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://play.google.com/store/apps/details?id=com.jomibusa.cinewizard&hl=en_US">
+        <b>CineWizard</b>
+      </a>
+      <br><br>
+      Discover movies: upcoming releases, most popular, and top rated. Your go-to app for finding what to watch.
+      <br><br>
+      <a href="https://play.google.com/store/apps/details?id=com.jomibusa.cinewizard&hl=en_US">
+        <img height="50" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### Languages
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -89,6 +120,7 @@
 [![Personal](https://img.shields.io/badge/Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jomibusa1903@gmail.com)
 [![Work](https://img.shields.io/badge/Work-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jomibusadeveloper@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Jomibusa)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Jomibusa)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
