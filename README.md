@@ -9,7 +9,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### About Me
+### 👨‍💻 About Me
 
 <table>
   <tr>
@@ -28,7 +28,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Published Apps
+### 🚀 Published Apps
 
 <table>
   <tr>
@@ -59,21 +59,21 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Languages
+### 💻 Languages
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Platforms & Frameworks
+### 📱 Platforms & Frameworks
 
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Architectures
+### 🏗️  Architectures
 
 ![MVVM](https://img.shields.io/badge/MVVM-5C2D91?style=for-the-badge)
 ![MVP](https://img.shields.io/badge/MVP-0288D1?style=for-the-badge)
@@ -81,14 +81,14 @@
 ![DDD](https://img.shields.io/badge/DDD-8E44AD?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-2C3E50?style=for-the-badge)
 
-### UI Frameworks
+### 🎨 UI Frameworks
 
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 
-### Libraries & Tools
+### 📚 Libraries & Tools
 
 ![Retrofit](https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-34A853?style=for-the-badge&logo=android&logoColor=white)
@@ -97,13 +97,13 @@
 ![Volley](https://img.shields.io/badge/Volley-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![AndroidX](https://img.shields.io/badge/AndroidX-34A853?style=for-the-badge&logo=android&logoColor=white)
 
-### IDEs & Environment
+### ⚙️  IDEs & Environment
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### DevOps & Version Control
+### 🔄 DevOps & Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
@@ -114,13 +114,23 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Contact
+### 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jomibusa)
-[![Personal](https://img.shields.io/badge/Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jomibusa1903@gmail.com)
-[![Work](https://img.shields.io/badge/Work-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jomibusadeveloper@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Jomibusa)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Jomibusa)
+<a href="https://linkedin.com/in/jomibusa">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:jomibusa1903@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Personal Email"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:jomibusadeveloper@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Work Email"/>
+</a>&nbsp;&nbsp;
+<a href="https://x.com/Jomibusa">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" width="40" alt="X"/>
+</a>&nbsp;&nbsp;
+<a href="https://youtube.com/@Jomibusa">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" alt="YouTube"/>
+</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
