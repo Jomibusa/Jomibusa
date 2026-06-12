@@ -36,6 +36,8 @@
       <a href="https://play.google.com/store/apps/details?id=com.jomibusa.instachatwp&hl=en_US">
         <b>InstaChat WP</b>
       </a>
+      <br>
+      <img src="https://img.shields.io/badge/Downloads-1.5K%2B-brightgreen?style=for-the-badge&logo=googleplay" alt="1.5K+ downloads"/>
       <br><br>
       Chat on WhatsApp without saving numbers. Scan or generate QR codes, keep chat history, and assign aliases.
       <br><br>
