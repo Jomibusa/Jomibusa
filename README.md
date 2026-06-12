@@ -34,7 +34,7 @@
   <tr>
     <td align="center" colspan="2">
       <a href="https://play.google.com/store/apps/details?id=com.jomibusa.instachatwp&hl=en_US">
-        <b>InstaChat WP</b>
+        <h3>InstaChat WP</h3>
       </a>
       <br>
       <img src="https://img.shields.io/badge/Downloads-1.5K%2B-brightgreen?style=for-the-badge&logo=googleplay" alt="1.5K+ downloads"/>
@@ -49,7 +49,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://play.google.com/store/apps/details?id=com.jomibusa.cinewizard&hl=en_US">
-        <b>CineWizard</b>
+        <h3>CineWizard</h3>
       </a>
       <br><br>
       Discover movies: upcoming releases, most popular, and top rated. Your go-to app for finding what to watch.
@@ -60,7 +60,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://play.google.com/store/apps/details?id=com.jomibusa.touche&hl=en_US">
-        <b>Touché!</b>
+        <h3>Touché!</h3>
       </a>
       <br><br>
       Make quick, fair random decisions by placing your fingers on the screen: pick winners, form teams, set turn orders, split percentages, or spin a custom wheel.
