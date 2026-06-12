@@ -55,6 +55,20 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://play.google.com/store/apps/details?id=com.jomibusa.touche&hl=en_US">
+        <b>Touché!</b>
+      </a>
+      <br><br>
+      Make quick, fair random decisions by placing your fingers on the screen: pick winners, form teams, set turn orders, split percentages, or spin a custom wheel.
+      <br><br>
+      <a href="https://play.google.com/store/apps/details?id=com.jomibusa.touche&hl=en_US">
+        <img height="50" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play"/>
+      </a>
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
