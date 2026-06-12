@@ -32,7 +32,7 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" colspan="2">
       <a href="https://play.google.com/store/apps/details?id=com.jomibusa.instachatwp&hl=en_US">
         <b>InstaChat WP</b>
       </a>
@@ -43,6 +43,8 @@
         <img height="50" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://play.google.com/store/apps/details?id=com.jomibusa.cinewizard&hl=en_US">
         <b>CineWizard</b>
@@ -54,8 +56,6 @@
         <img height="50" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://play.google.com/store/apps/details?id=com.jomibusa.touche&hl=en_US">
         <b>Touché!</b>
@@ -67,7 +67,6 @@
         <img height="50" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play"/>
       </a>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
